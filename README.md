@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [09-single-grid-component](https://www.frontendmentor.io/solutions/09singlegridcomponent-43PQDhzWhT)
 - Live Site URL: [https://iguanasplit.github.io/09-single-grid-component/](https://iguanasplit.github.io/09-single-grid-component/)
 
 ## My process
