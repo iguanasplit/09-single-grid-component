@@ -1,3 +1,4 @@
+README
 # Frontend Mentor - Single price grid component solution
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -52,5 +53,3 @@ Users should be able to:
 ## Acknowledgments
 
 -i think the improvements and credits should be given to the very caring and great community of FrontendMentor who without a doubt have always taken the time to check my code, answer my questions and aid me in case i ever needed it, while i understand learning to code is greatly a self taught experience knowing theres a place to rely on makes it a experience that allows me explore, make and correct mistakes and really try, rather than on this challenge specifically on my journey through this so far, thank you specially Grace, Lucas,and Elaine who have helped me in many occassions 
-
-
